@@ -1,0 +1,5 @@
+{
+  "name": "DeFAI Terminal",
+  "description": "A high-fidelity trading agent dashboard with dark mode aesthetics, real-time market signals, and portfolio tracking.",
+  "requestFramePermissions": []
+}
